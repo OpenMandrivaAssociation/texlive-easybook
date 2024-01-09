@@ -1,6 +1,6 @@
 Name:		texlive-easybook
-Version:	64976
-Release:	2
+Version:	69349
+Release:	1
 Summary:	Easily typesetting Chinese theses or books
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easybook
