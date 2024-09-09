@@ -1,5 +1,5 @@
 Name:		texlive-easybook
-Version:	72046
+Version:	72211
 Release:	1
 Summary:	Easily typesetting Chinese theses or books
 Group:		Publishing
