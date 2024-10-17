@@ -3,7 +3,7 @@ Version:	72211
 Release:	1
 Summary:	Easily typesetting Chinese theses or books
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/easybook
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/easybook
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easybook.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/easybook.doc.r%{version}.tar.xz
